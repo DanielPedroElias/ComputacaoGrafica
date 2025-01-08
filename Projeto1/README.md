@@ -2,9 +2,11 @@ Este projeto implementa uma aplicação interativa utilizando OpenGL e PyGame. E
 
 As tecnologias incluem:
 
-#OpenGL: Para renderização gráfica 3D e manipulação de objetos.
-#PyWavefront: Para carregar e exibir modelos 3D.
-#PyGame: Para reprodução de sons e interação visual complementar.
+# OpenGL: Para renderização gráfica 3D e manipulação de objetos.
+
+# PyWavefront: Para carregar e exibir modelos 3D.
+
+# PyGame: Para reprodução de sons e interação visual complementar.
 
 O código também utiliza colisões estáticas e dinâmicas.
 
